@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+
+#box{
+height:200px;
+width:200px;
+background-color:lightblue;
+border:2px thick black;
+position:absolute;
+	top:50%;
+	left:50%;
+	
+	
+}
+
+p{
+
+	position:relative;
+	top:100px;
+	left:100px;
+	color:purple;
+
+	
+
+}
